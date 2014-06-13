@@ -1,9 +1,8 @@
 {
-  "name": "saveMyLinks3-browser",
-  "description": "The browser interface to SaveMyLinks, using Backbones.js.",
-  "version": "0.0.1",
-  "directory": "lib",
-  "dependencies": {
-    "jquery": "*"
-  }
+	"name": "go-game",
+	"description": "A simple Go, minimalist and local.",
+	"version": "0.1.0",
+	"dependencies": {
+		"jquery": "*"
+	}
 }
