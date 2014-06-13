@@ -1,0 +1,11 @@
+.goGame td {
+  height: 25px;
+  width: 25px;
+  line-height: 25px;
+  text-align: center;
+  border: 1px solid #fff;
+  cursor: pointer;
+}
+.goGame td:hover {
+  border: 1px solid #000;
+}

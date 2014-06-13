@@ -1,0 +1,9 @@
+{
+  "name": "saveMyLinks3-browser",
+  "description": "The browser interface to SaveMyLinks, using Backbones.js.",
+  "version": "0.0.1",
+  "directory": "lib",
+  "dependencies": {
+    "jquery": "*"
+  }
+}
